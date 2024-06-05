@@ -1,3 +1,6 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: T2 Coding Portfolio
+description: A site to showcase some of what I've worked on over the years.
